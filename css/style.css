@@ -5,3 +5,9 @@
 .hide{
   display: none;
 }
+.offer__slide{
+  display: none;
+}
+.offer__slide--active{
+  display: block;
+}
